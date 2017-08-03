@@ -3,7 +3,7 @@ ExpressionEngine 2 fieldtype that will convert all Dukt Video fields to text fie
 
 It will also replace all Matrix columns which are Dukt Video fields, with text fields.
 
-Please note; I'm not providing support for this addon, just putting it out here in case it can help others that are stuck on an EE upgrade because of Dukt Videos.
+Please note; I'm not providing support for this addon, just putting it out here in case it can help others that are stuck on an EE upgrade because of Dukt Videos. Feel free to ping me [on twitter](https://twitter.com/bjornbjorn) if you have any questions though.
 
 ## How it works
 
